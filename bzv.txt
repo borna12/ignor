@@ -1,3 +1,7 @@
 sad
 
+<<<<<<< HEAD
 ne
+=======
+sad2
+>>>>>>> origin/master
